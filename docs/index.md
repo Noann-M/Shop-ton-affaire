@@ -7,7 +7,7 @@
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
 ## Logo
-![[Logo.jpeg]]
+![Logo.jpeg]
 
 ## Une liste
 - Toto ;
