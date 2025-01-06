@@ -1,20 +1,13 @@
-Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs et le thème Material.
-
-> Pour voir le code [MarkDown](https://fr.wikipedia.org/wiki/Markdown){target=_blank} sous jacent, cliquer sur l'oeil en haut à droite.
-
 # Bonjour bienvenue sur le site internet de SHOP TON AFFAIRE !
 ## Logo
 
-![[logo.jpeg]]
-
-
-Et avec un retour à la ligne avec saut de ligne.
+![[Logo.jpeg]]
 
 ## Un lien
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
 ## Logo
-![[logo.jpeg]]
+![[Logo.jpeg]]
 
 ## Une liste
 - Toto ;
