@@ -2,7 +2,7 @@
 ## Logo
 
 ##logo
-    ![Logo.jpeg]
+    ![IMG.0403]
 
 ## Un lien
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
