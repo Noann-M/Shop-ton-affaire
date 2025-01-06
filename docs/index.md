@@ -12,8 +12,8 @@ Et avec un retour à la ligne avec saut de ligne.
 ## Un lien
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
-## Une image
-![illustration mkdocs-material](https://squidfunk.github.io/mkdocs-material/assets/images/illustration.png)
+## Logo
+![[logo-transparent-png.png]]
 
 ## Une liste
 - Toto ;
