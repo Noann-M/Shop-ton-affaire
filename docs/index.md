@@ -1,7 +1,7 @@
 # Bonjour bienvenue sur le site internet de SHOP TON AFFAIRE !
 ## Logo
 
-!!! example logo
+##logo
     ![Logo.jpeg]
 
 ## Un lien
