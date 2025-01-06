@@ -1,7 +1,7 @@
 # Bonjour bienvenue sur le site internet de SHOP TON AFFAIRE !
 ## Logo
 
-![IMG-0403]
+![IMG_0403]
 
 ## Un lien
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
