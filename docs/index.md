@@ -1,13 +1,11 @@
 # Bonjour bienvenue sur le site internet de SHOP TON AFFAIRE !
 ## Logo
 
-![Logo.jpeg]
+!!! example logo
+    ![Logo.jpeg]
 
 ## Un lien
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
-
-## Logo
-![Logo.jpeg]
 
 ## Une liste
 - Toto ;
