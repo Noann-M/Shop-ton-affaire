@@ -2,10 +2,11 @@ Ceci est la page d'accueil d'un site de base généré avec le framework MkDocs 
 
 > Pour voir le code [MarkDown](https://fr.wikipedia.org/wiki/Markdown){target=_blank} sous jacent, cliquer sur l'oeil en haut à droite.
 
-# Bonjour bienvenue sur le site internet de SHOP TON AFFAIRE
-## hebrhrufu
-Ceci est un paragraphe.  
-Avec un retour à la ligne sans saut de ligne.
+# Bonjour bienvenue sur le site internet de SHOP TON AFFAIRE !
+## Logo
+
+![[logo.jpeg]]
+
 
 Et avec un retour à la ligne avec saut de ligne.
 
