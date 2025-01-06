@@ -13,8 +13,7 @@ Et avec un retour à la ligne avec saut de ligne.
 Source pour [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)
 
 ## Logo
-
-![[logo.png]]
+![[logo.jpeg]]
 
 ## Une liste
 - Toto ;
